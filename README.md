@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego Elian</h1>
+<h1 align="center">Hi, I'm Diego Elian</h1>
 <h3 align="center">full time student</h3>
 
 - 🔭 I’m currently working with LicsOrg in **"smashmod"**
