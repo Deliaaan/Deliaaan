@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with LicsOrg in **"smashmod"**
 
-- 🌱 I’m currently learning **improving my Python skills**
+- 🌱 I’m currently **improving my Python skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
