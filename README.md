@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Diego Elian</h1>
 <h3 align="center">full time student</h3>
 
-- 🔭 I’m currently working with LicsOrg in **"smashmod"**
-
-- 🌱 I’m currently **improving my Python skills**
+- 🌱 I’m currently **improving my codeing skills, next year Junior :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
