@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently improving my Front End skills<br>🌱 I’m learning Java applications to Forge and Fabric<br>⚡ I’m learning 3D modeling<br><br>🧿 also, I study a short degree in visual communication
+<br> Programmer Jr and visual communicator <br>
 
+🔭 I’m currently improving my Front End skills<br>🌱 I’m improving React and threeJS <br>⚡ I’m learning java aplications to spigot plugins <br><br>🧿 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Delian#9302) 
