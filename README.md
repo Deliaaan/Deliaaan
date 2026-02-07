@@ -11,7 +11,7 @@ I'm a very passionate software and hardware enthusiast who loves to learn by him
 
 ###
 
-<p align="left">✨ I Would like be a DevQA <br>📚 I'm studying Computational  Engineering <br>🎯 2025 Goals: make a indie video game <br>🎲 Fun fact: I use to study design / visual communication </p>
+<p align="left">✨ I Would like be a FE Dev <br>📚 I'm studying Computational  Engineering <br>🎯 2025 Goals: make a indie video game <br>🎲 Fun fact: I use to study design / visual communication </p>
 
 ###
 
