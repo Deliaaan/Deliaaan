@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Diego Nava and I'm a QA Engineer from México. 
+<p align="left">My name is Diego Nava and I'm a Automation Engineer from México. 
 I'm a very passionate software and hardware enthusiast who loves to learn by himself. </p>
 
 ###
@@ -11,7 +11,7 @@ I'm a very passionate software and hardware enthusiast who loves to learn by him
 
 ###
 
-<p align="left">✨ I Would like be a FE Dev <br>📚 I'm studying Computational  Engineering <br>🎯 2025 Goals: make a indie video game <br>🎲 Fun fact: I use to study design / visual communication </p>
+<p align="left">✨ future FE dev <br>📚 I'm studying Computational  Engineering <br> 🎲 Fun fact: I use to study design / visual communication </p>
 
 ###
 
