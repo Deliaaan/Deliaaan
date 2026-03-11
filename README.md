@@ -12,7 +12,3 @@ I'm a very passionate software and hardware enthusiast who loves to learn by him
 ###
 
 <p align="left">✨ future FE dev <br>📚 I'm studying Computational  Engineering <br> 🎲 Fun fact: I use to study design / visual communication </p>
-
-###
-
-<h2 align="left">I code automation with</h2>
